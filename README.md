@@ -69,7 +69,7 @@
     <td align="center" width="25%">
       <h4>⚙️ Back-end</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark&perline=4" alt="Backend" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,cs&theme=dark&perline=3" alt="Backend" />
       </p>
     </td>
     <td align="center" width="25%">
