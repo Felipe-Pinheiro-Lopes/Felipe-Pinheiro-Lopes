@@ -30,7 +30,7 @@
       <h3>👋 Olá, eu sou o Felipe!</h3>
       <p>
         Desenvolvedor apaixonado por transformar ideias em soluções digitais elegantes e funcionais.
-        Atualmente cursando <strong>Engenharia da Computação</strong> e <strong>ADS (Análise e Desenvolvimento de Sistemas)</strong>,
+        Formado em <strong>Engenharia da Computação</strong>, atualmente cursando <strong>ADS (Análise e Desenvolvimento de Sistemas)</strong>,
         com base técnica em <strong>Informática para Internet</strong>.
       </p>
       <p>
@@ -48,8 +48,8 @@
 <!-- FORMAÇÃO -->
 <h3 align="center">🎓 Formação Acadêmica</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Graduação-Engenharia_da_Computação-302157?style=for-the-badge&logo=bookstack&logoColor=F5E6C8" alt="Engenharia da Computação" />
-  <img src="https://img.shields.io/badge/Tecnólogo-ADS_(Análise_e_Dev._de_Sistemas)-302157?style=for-the-badge&logo=codecademy&logoColor=F5E6C8" alt="ADS" />
+  <img src="https://img.shields.io/badge/✅_Graduado-Engenharia_da_Computação-302157?style=for-the-badge&logo=bookstack&logoColor=F5E6C8" alt="Engenharia da Computação" />
+  <img src="https://img.shields.io/badge/📚_Cursando-ADS_(Análise_e_Dev._de_Sistemas)-4B3A8C?style=for-the-badge&logo=codecademy&logoColor=F5E6C8" alt="ADS" />
   <img src="https://img.shields.io/badge/Técnico-Informática_para_Internet-302157?style=for-the-badge&logo=googlechrome&logoColor=F5E6C8" alt="Informática para Internet" />
 </p>
 
