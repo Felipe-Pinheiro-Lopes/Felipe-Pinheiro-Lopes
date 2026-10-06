@@ -1,6 +1,6 @@
-<!-- BANNER DE BOAS-VINDAS: ESTÉTICA CAFÉ NOTURNO FANTASIOSO -->
+<!-- BANNER DE BOAS-VINDAS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=302157&height=250&section=header&text=Bem-vindo%20ao%20Café%20Noturno%20do%20Felipe&fontSize=50&fontAlign=50&fontColor=F5E6C8&animation=twinkling&desc=Onde%20o%20código%20se%20mistura%20com%20magia...&descSize=20&descAlign=50&descColor=A899E6" alt="Banner de Boas-Vindas - Café Noturno" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=302157&height=250&section=header&text=Bem-vindo%20ao%20Café%20Noturno%20do%20Felipe&fontSize=50&fontAlign=50&fontColor=F5E6C8&animation=twinkling&desc=Onde%20o%20código%20se%20mistura%20com%20magia...&descSize=20&descAlign=50&descColor=A899E6" alt="Banner de Boas-Vindas" />
 </p>
 
 <!-- INTRODUÇÃO E BIO -->
