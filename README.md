@@ -12,7 +12,7 @@
     <td width="75%">
       <h3>👋 Saudações!</h3>
       <p>Sou o anfitrião <strong>Felipe Pinheiro Lopes</strong>, um desenvolvedor que irá te guiar por este perfil.</p>
-      <p><strong>Sobre:</strong> Transformo xícaras de café em sistemas e linhas de código em experiências. Sou entusiasta da tecnologia, constantemente explorando novas ferramentas e padrões de arquitetura para construir soluções eficientes, escaláveis e intuitivas. Atualmente, focado em dominar as artes do Desenvolvimento Web e Sistemas.</p>
+      <p>Transformo xícaras de café em sistemas e linhas de código em experiências. Sou entusiasta da tecnologia, constantemente explorando novas ferramentas e padrões de arquitetura para construir soluções eficientes, escaláveis e intuitivas. Atualmente, focado em dominar as artes do Desenvolvimento Web e Sistemas.</p>
     </td>
   </tr>
 </table>
